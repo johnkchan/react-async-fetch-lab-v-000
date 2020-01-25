@@ -9,7 +9,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        {this.props.articleText}
+        {this.state.articleText}
       </div>  
     )
   }
