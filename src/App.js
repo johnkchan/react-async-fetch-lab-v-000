@@ -9,7 +9,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        {this.state.articleText}
+        {this.state.peopleInSpace}
       </div>  
     )
   }
