@@ -1,7 +1,7 @@
 // create your App component here
 import React, { Component } from 'react';
 
-class BlogContent extends React.Component {
+class App extends React.Component {
   render() {
     return (
       <div>
